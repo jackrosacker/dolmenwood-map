@@ -1,0 +1,10 @@
+.leaflet-tooltip-content-wrapper, 
+.leaflet-tooltip-tip {
+    background-color: transparent;
+}
+
+.leaflet-tooltip-content {
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+}
