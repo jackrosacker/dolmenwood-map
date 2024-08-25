@@ -3,3 +3,4 @@ raw
 *.qgz
 .DS_Store
 .venv
+map
